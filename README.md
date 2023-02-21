@@ -5,5 +5,5 @@ Este repositório contém vários projetos de aprendizado de máquina resolvidos
 
 
 #### 001. Credit Score Classification ( RandomForestClassifier ).
-#### 002. Weather Forecasting.
+#### 002. Weather Forecasting ( Facebook Prophet para forecasting (previsão) ).
 #### 003. Food Delivery Time Prediction ( Neural Network - Sequential ( LSTM, Dense ) ).
