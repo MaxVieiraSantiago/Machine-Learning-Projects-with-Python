@@ -7,3 +7,5 @@ Este repositório contém vários projetos de aprendizado de máquina resolvidos
 #### 001. Credit Score Classification ( RandomForestClassifier ).
 #### 002. Weather Forecasting ( Facebook Prophet para forecasting (previsão) ).
 #### 003. Food Delivery Time Prediction ( Neural Network - Sequential ( LSTM, Dense ) ).
+#### 004. Previsão de Temperatura Belo Horizonte MG ( Facebook Prophet para forecasting (previsão) ).
+#### 005. Grid Search Busca por Hiperparâmetros ( Árvore_de_Decisão & Grid Search )
