@@ -9,3 +9,4 @@ Este repositório contém vários projetos de aprendizado de máquina resolvidos
 #### 003. Food Delivery Time Prediction ( Neural Network - Sequential ( LSTM, Dense ) ).
 #### 004. Previsão de Temperatura Belo Horizonte MG ( Facebook Prophet para forecasting (previsão) ).
 #### 005. Grid Search Busca por Hiperparâmetros ( Árvore_de_Decisão & Grid Search )
+#### 006. Previsão de Séries Temporais com ARIMA ( ARIMA & SARIMA )
