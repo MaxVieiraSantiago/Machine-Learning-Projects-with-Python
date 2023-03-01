@@ -8,6 +8,7 @@ Este repositório contém vários projetos de aprendizado de máquina resolvidos
 #### 002. Weather Forecasting ( Facebook Prophet para forecasting (previsão) ).
 #### 003. Food Delivery Time Prediction ( Neural Network - Sequential ( LSTM, Dense ) ).
 #### 004. Previsão de Temperatura Belo Horizonte MG ( Facebook Prophet para forecasting (previsão) ).
-#### 005. Grid Search Busca por Hiperparâmetros ( Árvore_de_Decisão & Grid Search )
-#### 006. Previsão de Séries Temporais com ARIMA ( ARIMA & SARIMA (previsão) )
-#### 007. Clustering de Cartão de Crédito com Machine Learning ( Clustering KMeans )
+#### 005. Grid Search Busca por Hiperparâmetros ( Árvore_de_Decisão & Grid Search ).
+#### 006. Previsão de Séries Temporais com ARIMA ( ARIMA & SARIMA (previsão) ).
+#### 007. Clustering de Cartão de Crédito com Machine Learning ( Clustering KMeans ).
+#### 008. Clustering Music Genres with Machine Learning ( Clustering Kmeans ).
